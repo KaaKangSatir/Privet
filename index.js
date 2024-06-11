@@ -196,7 +196,7 @@ hardi.sendMessage(anu.id, {
                     mimetype: 'application/pdf',
                     fileLength: 99999,
                     pageCount: '100',
-                    fileName: `Shun Ai By Hardi`,
+                    fileName: `Shun Ai By KaaKangSatir`,
                     caption: txtLeft,
                     contextInfo: {
                         externalAdReply: {
@@ -216,7 +216,7 @@ hardi.sendMessage(anu.id, {
                     mimetype: 'application/pdf',
                     fileLength: 99999,
                     pageCount: '100',
-                    fileName: `Shun Ai By Hardi`,
+                    fileName: `Shun Ai By KaaKangSatir`,
                     caption: a,
                     contextInfo: {
                         externalAdReply: {
@@ -236,7 +236,7 @@ hardi.sendMessage(anu.id, {
                     mimetype: 'application/pdf',
                     fileLength: 99999,
                     pageCount: '100',
-                    fileName: `Shun Ai By Hardi`,
+                    fileName: `Shun Ai By KaaKangSatir`,
                     caption: a,
                     contextInfo: {
                         externalAdReply: {
@@ -504,7 +504,7 @@ console.log(`⠀⠀⠀⠀⠀⠀⢀⣤⣶⣶⣖⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣷⣶⣴⣾⠏⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠛⠋⠁⠀⠀⠀
 `)
-hardi.sendMessage('6281378300839' + "@s.whatsapp.net", { text: `*Connected! 👻*\n\nJangan Jual Bot/SC!!` });
+hardi.sendMessage('6285609279108' + "@s.whatsapp.net", { text: `*Connected! 👻*\n\nJangan Jual Bot/SC!!` });
 }
 // console.log('Connected...', update)
 });
